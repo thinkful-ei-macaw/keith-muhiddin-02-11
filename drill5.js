@@ -27,7 +27,7 @@ array.forEach (
     if(!element['boss']) {
       console.log(`${element['job title']} ${element['name']} doesn't report to anybody.`);
     } else {
-    console.log(`${element['job title']} ${element['name']} reports to ${element['boss']}.`);
+      console.log(`${element['job title']} ${element['name']} reports to ${element['boss']}.`);
     }
   }
 );
