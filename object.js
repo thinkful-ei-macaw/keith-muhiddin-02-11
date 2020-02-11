@@ -1,5 +1,7 @@
 'use strict';
 
+// 1. Object Initializers and Methodss
+
 const loaf = {
   flour: 300,
   water: 210
